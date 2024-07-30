@@ -1,0 +1,16 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  julian:
+    specifier: ^0.2.0
+    version: 0.2.0
+
+packages:
+
+  /julian@0.2.0:
+    resolution: {integrity: sha512-rpBcYy7SiT9ogHfxcJQDLycCVGx7nTvAbu0wm3dVnpY71P7asAFT5oOOLrlsDqQYS6qenhE/NHfhtMR7AQqWSQ==}
+    dev: false
